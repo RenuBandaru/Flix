@@ -20,15 +20,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![](https://i.imgur.com/saQsM2j.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
 
+PART 1
 My only challenge was working with the auto layout. It didnt exactly make sense at first and had to rewatch it several times. I didn't completely 
 resize it. The tableview display was the only one I couldnt automatically resize it and I tried to understand why it wasn't working but didnt make sense so I 
 auto resized the title and synopsis (which I am hoping I am right because it worked when I did it)
-
 Unfortunately I couldn't connect my phone with my laptop because I did not have a USBC to USBC adapter.
