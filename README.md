@@ -25,6 +25,10 @@ If you cannot see here please look at the submitted files (The link is here but 
 
 ![](https://i.imgur.com/saQsM2j.gif)
 
+![](https://i.imgur.com/saQsM2j.gif)
+
+
+
 ### Notes
 Describe any challenges encountered while building the app.
 
